@@ -4,7 +4,7 @@
 
 List of current APIs and UIs:
 
-- [Vagas aggregator API](https://apibr.com/vagas/api/v1/) - *Opportunities for developers* API, used by *Vagas aggregator UI*. [Swagger](https://apibr.com/vagas/swagger/)
+- [Vagas aggregator API Swagger](https://apibr.com/vagas/swagger/) - *Opportunities for developers* API, used by *Vagas aggregator UI*.
 - [Vagas aggregator UI](https://apibr.com/ui/vagas/) - *Opportunities for developers* User Interface (web - React), based on more than 50 GitHub accounts. The opportunities are published through issues on each repository and this tool aggregates them and makes it easy to search and display
 ![Screenshot of project interface](https://raw.githubusercontent.com/ApiBR/.github/main/profile/ApiBrVagasUi.png?version=2).
 
