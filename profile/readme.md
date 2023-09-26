@@ -12,5 +12,5 @@ List of current APIs and UIs:
 
 ## Repositories
 
-[![Vagas Aggregator Service](https://github-readme-stats-guibranco.vercel.app/api/pin/?username=ApiBR&repo=vagas-aggregator-service&show_issues=true&show_pull_requests=true&theme=dark)](https://github.com/ApiBR/vagas-aggregator-service)
-[![Vagas Aggregator UI](https://github-readme-stats-guibranco.vercel.app/api/pin/?username=ApiBR&repo=vagas-aggregator-ui&show_issues=true&show_pull_requests=true&theme=dark)](https://github.com/ApiBR/vagas-aggregator-ui)
+[![Vagas Aggregator Service](https://github-readme-stats-git-feature-private-repositories-guibranco.vercel.app/api/pin/?username=ApiBR&repo=vagas-aggregator-service&show_issues=true&show_pull_requests=true&theme=dark)](https://github.com/ApiBR/vagas-aggregator-service)
+[![Vagas Aggregator UI](https://github-readme-stats-git-feature-private-repositories-guibranco.vercel.app/api/pin/?username=ApiBR&repo=vagas-aggregator-ui&show_issues=true&show_pull_requests=true&theme=dark)](https://github.com/ApiBR/vagas-aggregator-ui)
