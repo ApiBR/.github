@@ -10,7 +10,7 @@ List of current APIs and UIs:
 - [Sports Agenda UI](https://apibr.com/ui/sports-agenda/) - *Sports Agenda* User Interface (web), based on some news portal data.
 
 
-![Screenshot of Vagas project interface](https://raw.githubusercontent.com/ApiBR/.github/main/profile/ApiBrVagasUi.png?version=2).
+![Screenshot of Vagas project interface](https://raw.githubusercontent.com/ApiBR/.github/main/profile/ApiBrVagasUi.png?version=2)
 
 ---
 
