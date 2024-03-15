@@ -1,5 +1,5 @@
 name: 💡 General Feature Request
-description: Suggest features, propose improvements, discuss new ideas!
+description: Suggest features, propose improvements, and discuss new ideas!
 title: "[FEATURE] <description>"
 labels: ["enhancement"]
 body:
@@ -7,18 +7,18 @@ body:
     id: description
     attributes:
       label: Description
-      description: A brief description of the enhancement you propose, also include what you tried and what worked.
+      description: A brief description of the enhancement you propose, also including what you tried and what worked.
     validations:
       required: true
   - type: textarea
-    id: screenshots
+    id: tech-notes
     attributes:
-      label: Screenshots
-      description: Please add screenshots if applicable
+      label: Tech notes
+      description: Please add any tech notes related to this feature request
     validations:
       required: false
   - type: textarea
-    id: extrainfo
+    id: extra-info
     attributes:
       label: Additional information
       description: Is there anything else we should know about this idea?
