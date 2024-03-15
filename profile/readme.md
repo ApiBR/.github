@@ -4,7 +4,7 @@
 
 List of current APIs and UIs:
 
-- [Sports Agenda API Swagger](https://apibr.com/sports-agenda/swagger/) - *Sports Agenda* for Brazilian football (soccer) teams.
+- [Sports Agenda API Swagger](https://apibr.com/sports-agenda/swagger/) - *Sports Agenda* football (soccer) leagues, teams, matches and results.
 - [Sports Agenda UI](https://apibr.com/ui/sports-agenda/) - *Sports Agenda* User Interface (web), based on some news portal data.
 - [Vagas aggregator API Swagger](https://apibr.com/vagas/swagger/) - *Opportunities for developers* API, used by *Vagas aggregator UI*.
 - [Vagas aggregator UI](https://apibr.com/ui/vagas/) - *Opportunities for developers* User Interface (web - React), based on more than 50 GitHub accounts. The opportunities are published through issues on each repository; this tool aggregates them and makes them easy to search and display.
