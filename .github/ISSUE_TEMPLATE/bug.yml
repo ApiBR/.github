@@ -1,25 +1,42 @@
 name: 🐛 Bug
 description: Report an issue to help improve the project.
-labels: ["bug"]
+title: "[BUG] <description>"
+labels: ["bug", "🚦awaiting triage"]
+
 body:
+
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: A brief description of the question or issue, also include what you tried and what didn't work
+      description: "A brief description of the question or issue, also include what you tried and what didn't work"
+      placeholder: "Example: 'When I try to upload a file (over 100MB), the process fails with a timeout error. This disrupts my workflow and causes delays in my project.'"
     validations:
       required: true
+      
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: "Include any logs such as error objects, stack traces, or console logs."
+      placeholder: "Example: 'Error: TimeoutError: The request timed out after 30 seconds'"
+    validations:
+      required: true
+      
   - type: textarea
     id: screenshots
     attributes:
       label: Screenshots
-      description: Please add screenshots if applicable
+      description: "Add any screenshots such as error messages or unexpected behavior."
+      placeholder: "Attach it here"
     validations:
       required: false
+      
   - type: textarea
     id: extrainfo
     attributes:
       label: Additional information
-      description: Is there anything else we should know about this bug?
+      description: "Is there anything else we should know about this bug?"
+      placeholder: "Describe it here"
     validations:
       required: false
