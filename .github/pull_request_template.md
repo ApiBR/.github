@@ -12,8 +12,7 @@ Closes # <!-- Issue # here -->
 <!-- Add a brief description of the pr -->
 
 <!-- 
-You can also choose to add a list of changes and if they have been completed 
-or not by using the markdown to-do list syntax
+You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
 - [ ] Not Completed
 - [x] Completed
 -->
@@ -31,7 +30,4 @@ or not by using the markdown to-do list syntax
 - [ ] No
 
 ## ℹ Additional Information
-<!-- 
-Any additional information like breaking changes, dependencies added,
-screenshots, comparisons between new and old behavior, etc.
--->
+<!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc.-->
