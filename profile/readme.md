@@ -1,6 +1,4 @@
-# API BR project
-
-<img src="https://apibr.com/ApiBRLogo.png" alt="API BR Logo" width="150px" />
+# ![API BR](https://apibr.com/ApiBRLogo.png)
 
 List of current APIs and UIs:
 
