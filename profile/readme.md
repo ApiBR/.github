@@ -1,4 +1,4 @@
-# ![API BR](https://apibr.com/ApiBRLogo.png)
+# ![API BR](https://raw.githubusercontent.com/ApiBR/.github/refs/heads/main/profile/splash.png)
 
 List of current APIs and UIs:
 
