@@ -10,7 +10,7 @@ List of current APIs and UIs:
 
 ## Brazilian Banks Directory
 
-![Screenshot of Banks Directory interface](https://raw.githubusercontent.com/ApiBR/catalog/refs/heads/main/public/project-images/banks-directory.png)
+![Screenshot of Banks Directory interface](https://raw.githubusercontent.com/ApiBR/catalog/main/public/project-images/banks-directory.png)
 
 ## Sports Agenda
 
