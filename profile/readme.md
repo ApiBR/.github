@@ -8,17 +8,17 @@ List of current APIs and UIs:
 - [Vagas aggregator API Swagger](https://apibr.com/vagas/swagger/) - *Opportunities for developers* API, used by *Vagas aggregator UI*.
 - [Vagas aggregator UI](https://apibr.com/ui/vagas/) - *Opportunities for developers* User Interface (web - React), based on more than 50 GitHub accounts. The opportunities are published through issues on each repository; this tool aggregates them and makes them easy to search and display.
 
-## Brazilian Banks Directory
+## Banks Directory
 
 ![Screenshot of Banks Directory interface](https://raw.githubusercontent.com/ApiBR/catalog/main/public/project-images/banks-directory.png)
 
 ## Sports Agenda
 
-![Screenshot of Sports Agenda interface](https://raw.githubusercontent.com/ApiBR/catalog/refs/heads/main/public/project-images/sports-agenda.png)
+![Screenshot of Sports Agenda interface](https://raw.githubusercontent.com/ApiBR/catalog/main/public/project-images/sports-agenda.png)
 
 ## Vagas Aggregator
 
-![Screenshot of Vagas project interface](https://raw.githubusercontent.com/ApiBR/catalog/refs/heads/main/public/project-images/vagas.png)
+![Screenshot of Vagas project interface](https://raw.githubusercontent.com/ApiBR/catalog/main/public/project-images/vagas.png)
 
 ---
 
